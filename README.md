@@ -167,6 +167,7 @@ A collection of custom widgets for <a href="https://github.com/glanceapp/glance"
 * [iCal (ICS) Calendar List](https://github.com/AWildLeon/Glance-iCal-Events) - list a ICS File's upcoming events (Like Google Calendar List) (by @AWildLeon)
 * [linktiles](https://github.com/haondt/linktiles/) - display your linkding bookmarks in a configurable mosaic (by @haondt)
 * [qBittorrent Statistic](https://github.com/Panonim/qbwrapper) - display file statistics as they are being downloaded (by @panonim)
+* [Stremio Activity](https://github.com/kRYstall9/glance-stremio-activity) - display Stremio users' watching activity, including recently watched content and currently watching content. (by @kRYstall9)
 
 <br>
 
